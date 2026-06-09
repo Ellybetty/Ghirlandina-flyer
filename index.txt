@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guida Torre Ghirlandina</title>
+</head>
+<body style="font-family: Arial, sans-serif; text-align:center; padding:40px;">
+
+    <h1>Guida alla Torre Ghirlandina</h1>
+
+    <p>Scegli la lingua e scarica il PDF.</p>
+
+    <div style="margin-top:30px;">
+
+        <a href="ITA_Flyer-Torre-Civica_525x210mm-exe"
+           download
+           style="display:inline-block;
+                  padding:15px 25px;
+                  margin:10px;
+                  background:#007bff;
+                  color:white;
+                  text-decoration:none;
+                  border-radius:10px;">
+            🇮🇹 Italiano
+        </a>
+
+        <a href="ES_Flyer-Torre-Civica_525x210mm-exe"
+           download
+           style="display:inline-block;
+                  padding:15px 25px;
+                  margin:10px;
+                  background:#28a745;
+                  color:white;
+                  text-decoration:none;
+                  border-radius:10px;">
+            🇪🇸 Español
+        </a>
+
+    </div>
+
+</body>
+</html>
